@@ -12,5 +12,8 @@ This project is a Power BI dashboard analyzing sales performance across regions 
 - regional trends
 - slicer for better and fast access
 
+## screenshot
+- dashboard((https://github.com/user-attachments/assets/c33e4e83-9580-466c-9b69-6f9d0104c223))
 ## How to Use
+
 Download the .pbix file and open it with Power BI Desktop to explore the dashboard.
